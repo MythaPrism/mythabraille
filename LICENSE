@@ -1,0 +1,85 @@
+MythaBraille Free-Use License, version 1.1
+Copyright (c) 2026 MythaPrism LLC. All rights reserved except as granted below.
+
+0. HOW THIS LICENSE AND THE TERMS WORK TOGETHER
+   This license governs copying and sharing the Software, wherever your copy came from (mythaprism.com, your MythaPrism
+   account, MythaPrism's GitHub repository or any other copy). Using the Software is also covered by the MythaPrism Terms
+   of Service (https://mythaprism.com/terms.html, including section 1b about MythaBraille). Every copy shows those Terms on
+   its first screen and asks you to read to the end and accept them before it opens, and they apply to your use from the
+   moment you accept. If you do not accept them, do not use the Software. Where this license and the Terms of Service cover
+   the same point, the Terms of Service apply, except that the rights to copy and share given in this license always stay
+   as written here.
+
+"Software" means MythaBraille, the program at https://mythaprism.com/braille, and the files in this repository
+(the documentation, the pictures and the sample files). "You" means any person or organization
+using the Software.
+
+1. WHAT YOU MAY DO, FREE OF CHARGE
+   MythaPrism LLC grants you a worldwide, royalty-free, non-exclusive license to:
+   a) use and run the Software, for any personal, educational, non-profit, government or commercial purpose;
+   b) make copies of the Software and share them with others, free of charge, as long as each copy is complete and
+      unchanged and includes this license and the copyright notice;
+   c) change the Software for your own private use, without sharing the changed version with anyone else.
+
+2. WHAT YOU MAKE IS YOURS
+   The braille plates, signs, labels, 3MF, STL and project files you create with the Software belong to you. You may
+   use, give away or sell them. MythaPrism LLC claims no rights in them.
+
+3. WHAT YOU MAY NOT DO
+   a) Sell, rent, lease or sublicense the Software, or charge anyone for access to it or for a copy of it.
+   b) Share a changed version of the Software, or a work based on it, with anyone else.
+   c) Remove or change the copyright notice, this license, or the MythaBraille or MythaPrism names in the Software.
+   d) Present the Software, or a copy of it, as your own product, or under another name or brand.
+   e) Use the names MythaBraille or MythaPrism, or their logos, to name or promote anything else, except to say truthfully
+      that something was made with MythaBraille. See TRADEMARKS.md.
+
+4. NO OTHER RIGHTS
+   This license grants no rights in any patent, trademark or other intellectual property of MythaPrism LLC other than
+   the copyright permissions written above. All rights not expressly granted are reserved.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, OR NON-INFRINGEMENT. MythaPrism LLC does not warrant that
+   the braille the Software produces is correct, that any print meets the Americans with Disabilities Act or any other
+   law, code or standard, or that the Software is free of errors. You are responsible for checking every print before
+   you rely on it, especially signs placed where people depend on them.
+
+5a. A FREE ALTERNATIVE, NOT AN OFFICIAL OR CERTIFIED PRODUCT
+   The Software is offered free as one alternative way to make braille on a 3D printer. It is not a complete braille
+   solution and not a substitute for a qualified braille transcriber or proofreader. It is not made, sponsored, certified,
+   approved or endorsed by the U.S. Access Board, the U.S. Department of Justice, the Braille Authority of North America,
+   the International Council on English Braille, or any government agency, standards body or braille authority, and it
+   has no certification or approval of any kind. Its Grade 2 option is a beta. Have braille that people will rely on
+   checked by a qualified braille reader or certified transcriber, and do not rely on the Software alone for emergency,
+   safety, medical or legal information. You will not describe anything made with the Software as certified, approved,
+   proofread or compliant when it is not.
+
+6. LIMITATION OF LIABILITY
+   TO THE FULLEST EXTENT ALLOWED BY LAW, MythaPrism LLC AND ITS MEMBERS, MANAGERS AND CONTRIBUTORS WILL NOT BE LIABLE
+   FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA,
+   MATERIALS, EQUIPMENT OR GOODWILL, ARISING FROM OR RELATED TO THE SOFTWARE OR ANYTHING MADE WITH IT, EVEN IF ADVISED
+   OF THE POSSIBILITY OF SUCH DAMAGES. Because the Software is provided free of charge, the total liability of
+   MythaPrism LLC for all claims related to it will not exceed fifty US dollars (US$50), or the smallest amount allowed by
+   law if that is higher.
+
+6a. INDEMNITY
+   You will defend, indemnify and hold harmless MythaPrism LLC and its members, managers, employees and contractors from
+   any claim, loss, liability, damages, fine or expense (including reasonable attorneys' fees) arising from your use or
+   misuse of the Software, from anything you make, install, share or sell with it, including any claim that a sign,
+   label or document does not meet the Americans with Disabilities Act or another law, code or standard, or from your
+   breach of this license or the Terms of Service.
+
+7. ENDING THIS LICENSE
+   This license ends automatically if you break it. When it ends you must stop using and sharing the Software. Sections
+   0, 2, 5, 5a, 6, 6a and 8 continue after it ends.
+
+8. GOVERNING LAW AND DISPUTES
+   This license is governed by the laws of the State of Maryland, USA, without regard to its conflict-of-law rules.
+   Disputes are resolved as set out in section 12 of the MythaPrism Terms of Service (informal resolution first, then
+   binding individual arbitration with a class-action waiver for users in the United States).
+
+9. CHANGES
+   MythaPrism LLC may publish new versions of this license. A copy of the Software you received under this version
+   stays under this version.
+
+Questions: support@mythaprism.com · MythaPrism LLC, PO Box 47373, Windsor Mill, MD 21244, USA
