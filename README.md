@@ -5,6 +5,7 @@
 <a href="docs/quick-start.md"><b>Quick start</b></a> &nbsp;·&nbsp;
 <a href="manual/MythaBraille_Manual.pdf"><b>Manual (PDF)</b></a> &nbsp;·&nbsp;
 <a href="demos"><b>Demo plates to print</b></a> &nbsp;·&nbsp;
+<a href="videos"><b>Video tutorials</b></a> &nbsp;·&nbsp;
 <a href="../../issues/new/choose"><b>Report a bug</b></a>
 </p>
 
@@ -15,6 +16,22 @@ This repository holds the manual, the demo plates and the pictures. It holds no 
 <img src="assets/screen.jpg" width="100%">
 
 <sub>Real screen capture of MythaBraille.</sub>
+
+## Real prints
+
+| The alphabet plate | Four plates | Two text plates |
+|:---:|:---:|:---:|
+| <img src="assets/photo_alphabet_plate.jpg" width="260" alt="A white 3D printed plate with the word MythaBraille, the alphabet and the numbers, each in raised black print with its braille above it"> | <img src="assets/photo_four_plates.jpg" width="260" alt="Four white 3D printed braille plates lying overlapped, with rows of black braille dots and thin lines between the rows"> | <img src="assets/photo_text_plates.jpg" width="260" alt="Two white 3D printed plates with many rows of black braille dots and thin lines between the rows"> |
+
+Real photos of plates made with MythaBraille and printed on a filament printer, background replaced.
+
+## Watch it
+
+| Your first braille sign | A tour of MythaBraille |
+|:---:|:---:|
+| <a href="videos/01_your_first_braille_sign.mp4"><img src="videos/posters/01_your_first_braille_sign.jpg" width="380"></a> | <a href="videos/02_tour_of_mythabraille.mp4"><img src="videos/posters/02_tour_of_mythabraille.jpg" width="380"></a> |
+
+Real screen recordings of MythaBraille 1.6.5, played at real speed. Three more tutorials and a video of every feature are in [videos](videos).
 
 ## What it makes
 
@@ -55,6 +72,7 @@ The [manual](manual/MythaBraille_Manual.pdf) starts with what braille is and how
 ## Guides
 
 - [Quick start: your first plate](docs/quick-start.md)
+- [Video tutorials](videos): five tutorials and every feature as its own short video
 - [The full manual as a page](docs/manual.md), with pictures, or as a [PDF](manual/MythaBraille_Manual.pdf)
 
 ## Demo plates
